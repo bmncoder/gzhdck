@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("我是第二次提交hot-fix");
         System.out.println("99999999999999");
         System.out.println("ha ha ha ha");
+        System.out.println("push test");
     }
 }
